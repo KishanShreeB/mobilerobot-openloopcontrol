@@ -104,9 +104,11 @@ if _name_ == '_main_':
 
 Insert image here
 <br/>
-![Uploading WhatsApp Image 2024-01-02 at 23.46.28_a50a50fd.jpg…]()
+
 
 <br/>
+![WhatsApp Image 2024-01-02 at 23 46 27_7e8d7b76](https://github.com/KishanShreeB/mobilerobot-openloopcontrol/assets/144870434/a26445ee-44fc-4fe6-9dc4-6c9b5e9ac59c)
+
 <br/>
 <br/>
 
@@ -117,7 +119,7 @@ Upload your video in Youtube and paste your video-id here
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 <br/>
-https://youtu.be/dUtd1FnMlwY?si=_v3S-ukKMnpdri4x
+https://youtu.be/OHQbHIi6aLU?si=m33ulXRqN3ZMrBBi
 <br/>
 <br/>
 <br/>
