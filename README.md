@@ -105,8 +105,7 @@ if _name_ == '_main_':
 Insert image here
 
 
-![WhatsApp Image 2024-01-02 at 23 46 28_ed858774](https://github.com/KishanShreeB/mobilerobot-openloopcontrol/assets/144870434/d708bc5b-f957-44f8-97f1-4cbeccb210d2)
-
+![Uploading WhatsApp Image 2024-01-02 at 23.46.28_a50a50fd.jpg…]()
 
 
 <br/>
