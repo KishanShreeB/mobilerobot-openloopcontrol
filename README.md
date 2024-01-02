@@ -103,7 +103,8 @@ if _name_ == '_main_':
 Insert image here
 
 
-![WhatsApp Image 2024-01-02 at 23 46 27_7e8d7b76](https://github.com/KishanShreeB/mobilerobot-openloopcontrol/assets/144870434/a26445ee-44fc-4fe6-9dc4-6c9b5e9ac59c)
+![WhatsApp Image 2024-01-03 at 00 22 26_67d7dacb](https://github.com/KishanShreeB/mobilerobot-openloopcontrol/assets/144870434/637a8777-8bf6-4146-8c7e-5eb238f5ee83)
+
 
 
 
